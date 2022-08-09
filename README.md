@@ -55,3 +55,5 @@ In order to use Selenium UI components you will need to:
             1. MAJOR version when you make incompatible changes
             2. MINOR version when you add functionality in a backwards compatible manner
             3. PATCH version when you make backwards compatible bug fixes.
+2. deploy.yaml file will be triggered upon merging PR to master branch
+    1. build.gradle has been configured to create `.jar` file and publishing it to artifactory automatically
