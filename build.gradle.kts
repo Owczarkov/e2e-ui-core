@@ -19,7 +19,7 @@ dependencies {
     implementation("org.apache.logging.log4j:log4j-slf4j-impl:$log4jVersion")
     implementation("org.apache.commons:commons-collections4:4.4")
     testImplementation("org.assertj:assertj-core:3.23.1")
-    testImplementation("io.qameta.allure:allure-testng:2.18.1")
+    testImplementation("io.qameta.allure:allure-testng:2.19.0")
     compileOnly("com.github.spotbugs:spotbugs-annotations:4.7.1")
 }
 
