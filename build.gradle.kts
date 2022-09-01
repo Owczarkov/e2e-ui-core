@@ -9,7 +9,7 @@ val log4jVersion = "2.18.0"
 
 dependencies {
     api("org.seleniumhq.selenium:selenium-java:4.4.0")
-    api("io.github.bonigarcia:webdrivermanager:5.2.3")
+    api("io.github.bonigarcia:webdrivermanager:5.3.0")
     api("com.google.guava:guava:31.1-jre")
     implementation("ru.yandex.qatools.ashot:ashot:1.5.4")
     implementation("io.qameta.allure:allure-attachments:2.18.1")
