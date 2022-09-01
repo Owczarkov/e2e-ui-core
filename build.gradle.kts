@@ -2,7 +2,7 @@ plugins {
     id("java")
     id("maven-publish")
     id("java-library")
-    id("io.freefair.lombok") version "6.5.0.3"
+    id("io.freefair.lombok") version "6.5.1"
 }
 
 val log4jVersion = "2.18.0"
