@@ -12,7 +12,7 @@ dependencies {
     api("io.github.bonigarcia:webdrivermanager:5.2.3")
     api("com.google.guava:guava:31.1-jre")
     implementation("ru.yandex.qatools.ashot:ashot:1.5.4")
-    implementation("io.qameta.allure:allure-attachments:2.18.1")
+    implementation("io.qameta.allure:allure-attachments:2.20.1")
     implementation("org.testng:testng:7.6.1")
     implementation("org.apache.logging.log4j:log4j-api:$log4jVersion")
     implementation("org.apache.logging.log4j:log4j-core:$log4jVersion")
